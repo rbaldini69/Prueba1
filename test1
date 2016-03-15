@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+	<style>
+			h1{
+				margin-left: 200px;
+				color:blue; font-family:Verdana; font-size: 100px;
+			}
+
+			 .h1rojo{
+
+				color:green;
+				background-color: black;
+				font-family:arial;
+				font-style: ;
+
+
+			}
+
+	</style>
+
+
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+
+
+	<h1>El depo</h1>
+
+	<p>Este es el depo de instituto <b>Malbran</b><br>
+	Aca trabajan:</p>
+
+	<ul>
+		<li>Rodri: <b>el jefe</b></li>
+		<li>Kari: <b>la UM</b></li>
+		<li>Mingo: <b>el jovie</b></li>
+		<li>Juli: <b>el pendex</b></li>
+
+	</ul>
+	
+	<h1 class="h1rojo">Hola soy otro h1</h1>
+
+	<h1 class="h1rojo">chau, putos</h1>
+</body>
+</html>
